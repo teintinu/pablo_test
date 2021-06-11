@@ -1,3 +1,7 @@
+
+
+// creates typed client to the API, can be used in a frontend
+
 import axios, {AxiosResponse} from 'axios';
 import {CRUDContract, CRUDTable} from '../shared';
 import {CRUD} from './contracts';

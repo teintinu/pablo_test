@@ -1,4 +1,7 @@
 
+
+// API database operations
+
 import {Pool} from 'pg'
 import {CRUD, CRUDContract, Employee, EmployeeType, Shop} from '../shared'
 

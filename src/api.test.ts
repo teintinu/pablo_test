@@ -1,3 +1,6 @@
+
+// test all endpoints sequentially
+
 import {expect} from "chai";
 import {Employee, EmployeeType, Shop} from "./shared";
 import {clientAPI} from "./shared/apiClient";

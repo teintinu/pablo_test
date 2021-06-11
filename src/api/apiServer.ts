@@ -1,5 +1,5 @@
 
-// declare endpoits for express appliation automaticlly based on crud contracts
+// declare endpoits for express appliation based on crud contracts
 
 import {Express} from "express";
 import {CRUDTable} from '../shared';

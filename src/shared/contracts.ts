@@ -1,3 +1,6 @@
+
+// API contract, shared by server, client and database operations
+
 import {Shop} from './models/shop';
 import {EmployeeType} from './models/employee_type';
 import {Employee} from './models/employee';
